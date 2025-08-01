@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,Product_Name,Category,Sales,Quantity,Profit,Region,State
+O-1000,2024-10-01,C-1081,Laptop Stand,Furniture,32.01,3,3.56,West,Nevada
+O-1001,2025-07-22,C-1013,Webcam,Electronics,61.73,4,3.58,East,New York
+O-1002,2025-04-13,C-1029,Webcam,Electronics,308.97,5,30.81,South,Texas
+O-1003,2024-08-30,C-1057,Printer,Electronics,153.53,1,36.8,West,Nevada
+O-1004,2024-09-19,C-1054,Noise Cancelling Headphones,Electronics,153.38,2,44.37,North,Illinois
+O-1005,2025-04-06,C-1011,"Monitor 24""",Electronics,66.42,3,13.35,East,New Jersey
+O-1006,2025-07-15,C-1058,Webcam,Electronics,79.92,4,5.57,North,Minnesota
+O-1007,2024-12-21,C-1079,Noise Cancelling Headphones,Electronics,297.13,1,18.26,West,Washington
+O-1008,2024-10-14,C-1010,Office Chair,Furniture,435.91,4,52.09,North,Illinois
+O-1009,2025-03-19,C-1047,Noise Cancelling Headphones,Electronics,120.56,3,27.18,East,New Jersey
+O-1010,2024-10-11,C-1081,Desk Lamp,Furniture,276.39,2,25.11,South,Florida
+O-1011,2025-01-19,C-1081,Webcam,Electronics,125.42,3,32.7,East,New York
+O-1012,2025-01-08,C-1004,Noise Cancelling Headphones,Electronics,212.56,1,21.84,North,Illinois
+O-1013,2025-01-12,C-1083,Keyboard,Electronics,209.9,4,17.99,West,California
+O-1014,2024-10-31,C-1095,Webcam,Electronics,278.71,5,43.79,South,Florida
+O-1015,2025-01-07,C-1028,Desk Lamp,Furniture,264.57,1,63.22,East,New York
+O-1016,2024-11-09,C-1080,Desk Lamp,Furniture,400.2,4,79.68,South,Florida
+O-1017,2024-10-25,C-1076,Keyboard,Electronics,273.97,5,72.66,East,New Jersey
+O-1018,2025-07-26,C-1092,Laptop Stand,Furniture,347.22,5,82.54,North,Illinois
+O-1019,2024-08-19,C-1037,"Monitor 24""",Electronics,95.92,1,27.67,North,Minnesota
+O-1020,2024-12-23,C-1097,Desk Lamp,Furniture,263.69,1,70.57,North,Minnesota
+O-1021,2025-01-20,C-1064,Printer,Electronics,115.48,3,27.79,East,New Jersey
+O-1022,2025-06-19,C-1041,Keyboard,Electronics,29.35,3,7.92,North,Illinois
+O-1023,2025-07-08,C-1007,Office Chair,Furniture,441.44,1,31.52,South,Texas
+O-1024,2024-12-18,C-1097,Webcam,Electronics,387.6,2,83.31,West,Washington
+O-1025,2025-04-11,C-1067,Printer,Electronics,223.11,2,62.97,West,Nevada
+O-1026,2024-10-12,C-1039,"Monitor 24""",Electronics,497.67,3,79.39,South,Texas
+O-1027,2025-06-18,C-1031,Office Chair,Furniture,50.73,1,10.0,West,Nevada
+O-1028,2025-06-27,C-1028,Wireless Mouse,Electronics,54.08,1,5.8,East,Massachusetts
+O-1029,2025-04-23,C-1009,Webcam,Electronics,134.24,4,13.9,West,Nevada
+O-1030,2025-05-02,C-1073,Printer,Electronics,246.88,4,62.18,West,California
+O-1031,2024-10-16,C-1012,"Monitor 24""",Electronics,190.06,4,31.69,East,New Jersey
+O-1032,2025-05-29,C-1083,Laptop Stand,Furniture,49.09,3,12.28,East,New York
+O-1033,2024-12-06,C-1024,Office Chair,Furniture,277.42,2,43.13,North,Michigan
+O-1034,2025-03-21,C-1031,Laptop Stand,Furniture,232.7,5,17.33,East,New York
+O-1035,2025-01-04,C-1096,Office Chair,Furniture,99.83,4,17.01,South,Texas
+O-1036,2024-08-16,C-1021,"Monitor 24""",Electronics,21.03,4,2.45,South,Florida
+O-1037,2025-02-10,C-1054,Webcam,Electronics,337.7,4,29.95,North,Illinois
+O-1038,2025-07-25,C-1007,Printer,Electronics,373.15,1,88.43,East,New York
+O-1039,2025-03-01,C-1074,Keyboard,Electronics,261.37,5,23.36,East,New York
+O-1040,2024-09-13,C-1008,Printer,Electronics,52.62,2,7.94,West,Nevada
+O-1041,2025-03-17,C-1076,Wireless Mouse,Electronics,317.3,4,68.01,North,Michigan
+O-1042,2025-02-18,C-1026,Noise Cancelling Headphones,Electronics,134.57,4,11.13,North,Michigan
+O-1043,2025-05-16,C-1040,Laptop Stand,Furniture,24.47,5,7.33,East,New York
+O-1044,2025-05-17,C-1068,Office Chair,Furniture,262.82,2,74.46,East,New York
+O-1045,2025-07-03,C-1047,USB Hub,Electronics,95.72,5,21.62,East,New Jersey
+O-1046,2025-02-24,C-1070,USB Hub,Electronics,467.24,1,133.04,West,Washington
+O-1047,2024-10-04,C-1014,Laptop Stand,Furniture,376.36,2,44.44,West,Nevada
+O-1048,2025-01-18,C-1043,Office Chair,Furniture,350.0,3,61.72,North,Illinois
+O-1049,2024-12-24,C-1011,"Monitor 24""",Electronics,418.09,1,21.28,West,Nevada
+O-1050,2024-08-20,C-1033,Desk Lamp,Furniture,375.79,5,85.09,East,New York
+O-1051,2025-07-16,C-1009,Desk Lamp,Furniture,281.88,3,55.14,West,Washington
+O-1052,2025-01-01,C-1016,Wireless Mouse,Electronics,167.96,1,46.14,West,Nevada
+O-1053,2025-05-09,C-1031,Laptop Stand,Furniture,189.77,5,51.43,South,Georgia
+O-1054,2024-12-31,C-1095,Desk Lamp,Furniture,464.37,2,123.59,West,Washington
+O-1055,2024-08-25,C-1003,Desk Lamp,Furniture,373.55,3,91.74,South,Georgia
+O-1056,2025-02-08,C-1094,Office Chair,Furniture,148.07,1,21.56,East,Massachusetts
+O-1057,2025-02-25,C-1028,Office Chair,Furniture,411.96,4,56.61,West,California
+O-1058,2025-02-19,C-1003,Office Chair,Furniture,211.26,3,56.21,North,Michigan
+O-1059,2025-01-15,C-1082,Webcam,Electronics,211.85,5,28.13,East,New York
+O-1060,2025-02-05,C-1033,Desk Lamp,Furniture,298.68,3,17.79,South,Florida
+O-1061,2024-08-25,C-1093,Noise Cancelling Headphones,Electronics,229.47,5,18.11,West,Washington
+O-1062,2024-08-26,C-1005,"Monitor 24""",Electronics,20.81,5,4.61,West,Washington
+O-1063,2025-03-02,C-1055,Laptop Stand,Furniture,475.46,3,97.84,East,New Jersey
+O-1064,2025-06-14,C-1038,Webcam,Electronics,168.46,4,22.16,North,Minnesota
+O-1065,2024-08-12,C-1016,Office Chair,Furniture,221.81,4,48.65,West,Nevada
+O-1066,2024-10-31,C-1072,USB Hub,Electronics,214.92,1,27.07,West,Washington
+O-1067,2025-02-01,C-1100,Printer,Electronics,311.2,3,51.74,South,Georgia
+O-1068,2024-12-13,C-1027,Webcam,Electronics,247.13,2,53.06,North,Minnesota
+O-1069,2024-09-13,C-1084,Printer,Electronics,180.89,2,39.47,West,California
+O-1070,2025-05-18,C-1018,Wireless Mouse,Electronics,42.18,4,8.55,East,Massachusetts
+O-1071,2025-07-11,C-1053,Printer,Electronics,113.33,4,19.67,West,California
+O-1072,2025-07-24,C-1083,Wireless Mouse,Electronics,448.48,1,109.7,West,California
+O-1073,2025-01-10,C-1089,Webcam,Electronics,242.98,5,27.29,East,Massachusetts
+O-1074,2025-07-20,C-1017,Keyboard,Electronics,340.44,5,67.7,South,Georgia
+O-1075,2025-01-21,C-1092,Webcam,Electronics,224.84,5,36.31,West,Nevada
+O-1076,2025-07-29,C-1060,Keyboard,Electronics,144.41,2,37.54,North,Minnesota
+O-1077,2025-07-19,C-1062,Office Chair,Furniture,151.81,1,34.67,West,Washington
+O-1078,2024-11-04,C-1042,Noise Cancelling Headphones,Electronics,448.65,1,37.95,West,Washington
+O-1079,2024-11-10,C-1088,Desk Lamp,Furniture,359.08,1,55.2,North,Minnesota
+O-1080,2024-10-03,C-1059,"Monitor 24""",Electronics,49.89,4,7.35,East,New Jersey
+O-1081,2024-08-25,C-1048,Keyboard,Electronics,22.83,3,2.85,South,Florida
+O-1082,2025-01-22,C-1068,Webcam,Electronics,403.94,2,69.5,North,Michigan
+O-1083,2024-11-07,C-1062,Wireless Mouse,Electronics,206.65,4,47.75,South,Texas
+O-1084,2024-08-16,C-1079,Webcam,Electronics,32.94,4,6.52,East,New York
+O-1085,2024-12-26,C-1082,"Monitor 24""",Electronics,85.14,4,8.13,North,Michigan
+O-1086,2025-02-28,C-1041,Office Chair,Furniture,238.26,3,57.26,South,Florida
+O-1087,2025-01-28,C-1096,"Monitor 24""",Electronics,141.09,1,23.64,East,Massachusetts
+O-1088,2025-05-07,C-1028,Laptop Stand,Furniture,394.99,1,94.23,West,California
+O-1089,2024-09-15,C-1002,Printer,Electronics,93.14,2,15.68,East,New Jersey
+O-1090,2024-10-25,C-1027,Keyboard,Electronics,355.74,3,32.71,East,New York
+O-1091,2025-04-07,C-1039,Laptop Stand,Furniture,297.77,3,57.75,South,Florida
+O-1092,2024-09-14,C-1091,Office Chair,Furniture,56.48,2,4.26,North,Minnesota
+O-1093,2024-10-30,C-1076,Laptop Stand,Furniture,402.19,5,98.8,North,Minnesota
+O-1094,2025-04-17,C-1054,Noise Cancelling Headphones,Electronics,53.1,3,2.82,South,Florida
+O-1095,2024-12-14,C-1013,"Monitor 24""",Electronics,481.18,4,109.14,South,Texas
+O-1096,2024-09-08,C-1093,Webcam,Electronics,483.43,3,98.61,South,Florida
+O-1097,2025-02-22,C-1055,Printer,Electronics,148.83,2,38.35,East,Massachusetts
+O-1098,2025-02-15,C-1057,Office Chair,Furniture,380.23,5,77.03,South,Florida
+O-1099,2025-06-24,C-1003,Keyboard,Electronics,428.46,2,73.65,North,Michigan
+O-1100,2024-11-24,C-1043,USB Hub,Electronics,442.55,3,83.62,West,California
+O-1101,2025-07-09,C-1030,"Monitor 24""",Electronics,254.52,2,56.67,South,Florida
+O-1102,2025-05-12,C-1002,Laptop Stand,Furniture,161.23,4,35.95,North,Minnesota
+O-1103,2024-12-07,C-1074,Noise Cancelling Headphones,Electronics,247.17,5,33.6,North,Michigan
+O-1104,2025-07-03,C-1089,Keyboard,Electronics,150.04,3,16.15,West,Washington
+O-1105,2025-03-23,C-1015,Webcam,Electronics,476.42,2,46.63,South,Florida
+O-1106,2024-12-31,C-1092,Printer,Electronics,488.77,5,97.36,East,New York
+O-1107,2025-01-21,C-1037,Office Chair,Furniture,193.22,3,10.34,West,Washington
+O-1108,2025-06-19,C-1005,Wireless Mouse,Electronics,285.61,2,59.83,South,Texas
+O-1109,2024-10-03,C-1001,Printer,Electronics,156.48,4,25.06,West,California
+O-1110,2025-04-05,C-1032,Keyboard,Electronics,74.76,1,11.23,East,New Jersey
+O-1111,2024-11-24,C-1080,Wireless Mouse,Electronics,92.83,5,26.67,East,New York
+O-1112,2025-01-15,C-1015,Webcam,Electronics,386.93,5,77.01,West,Nevada
+O-1113,2024-12-29,C-1048,Keyboard,Electronics,456.08,3,120.88,South,Florida
+O-1114,2025-03-20,C-1072,Printer,Electronics,48.91,1,14.03,West,Nevada
+O-1115,2024-08-15,C-1027,USB Hub,Electronics,337.01,2,37.06,East,New York
+O-1116,2024-09-19,C-1000,"Monitor 24""",Electronics,236.24,5,39.57,East,New York
+O-1117,2024-11-17,C-1036,USB Hub,Electronics,357.43,4,24.23,West,Washington
+O-1118,2024-08-14,C-1100,Printer,Electronics,337.37,2,52.73,West,Nevada
+O-1119,2025-07-06,C-1019,USB Hub,Electronics,416.78,1,27.05,North,Minnesota
+O-1120,2024-09-01,C-1095,Printer,Electronics,462.17,4,37.48,North,Minnesota
+O-1121,2024-11-04,C-1051,USB Hub,Electronics,260.23,4,41.49,East,Massachusetts
+O-1122,2025-05-25,C-1094,Noise Cancelling Headphones,Electronics,309.78,1,22.56,East,New Jersey
+O-1123,2025-02-08,C-1034,Printer,Electronics,39.31,2,6.59,South,Florida
+O-1124,2024-12-26,C-1023,Printer,Electronics,229.22,4,66.99,South,Florida
+O-1125,2025-01-10,C-1052,Noise Cancelling Headphones,Electronics,174.11,1,46.04,North,Michigan
+O-1126,2025-04-27,C-1088,Keyboard,Electronics,158.34,4,40.12,East,Massachusetts
+O-1127,2025-05-17,C-1011,Noise Cancelling Headphones,Electronics,141.15,1,41.29,South,Georgia
+O-1128,2025-06-02,C-1000,Webcam,Electronics,241.75,1,23.42,North,Minnesota
+O-1129,2025-06-23,C-1096,Keyboard,Electronics,320.2,1,32.3,West,Washington
+O-1130,2025-04-13,C-1056,Keyboard,Electronics,78.28,5,19.56,West,Washington
+O-1131,2025-01-03,C-1070,Wireless Mouse,Electronics,285.08,1,30.27,East,Massachusetts
+O-1132,2024-10-15,C-1015,Desk Lamp,Furniture,259.22,3,45.94,North,Michigan
+O-1133,2025-05-05,C-1061,Keyboard,Electronics,136.99,5,11.8,West,Nevada
+O-1134,2024-12-27,C-1065,Desk Lamp,Furniture,434.73,3,105.71,South,Florida
+O-1135,2025-02-23,C-1100,Webcam,Electronics,148.24,1,17.89,North,Minnesota
+O-1136,2025-07-26,C-1074,Keyboard,Electronics,435.33,4,80.38,North,Michigan
+O-1137,2025-04-16,C-1070,Webcam,Electronics,201.06,3,53.76,West,Nevada
+O-1138,2025-06-15,C-1049,Office Chair,Furniture,430.89,4,26.25,South,Georgia
+O-1139,2025-05-05,C-1048,"Monitor 24""",Electronics,494.44,2,85.95,East,New York
+O-1140,2024-10-27,C-1064,Printer,Electronics,179.36,1,48.17,South,Texas
+O-1141,2025-02-03,C-1067,Keyboard,Electronics,27.37,2,4.17,West,California
+O-1142,2025-04-05,C-1060,USB Hub,Electronics,182.51,4,38.78,North,Minnesota
+O-1143,2025-06-14,C-1068,"Monitor 24""",Electronics,477.99,4,128.15,East,New Jersey
+O-1144,2025-05-31,C-1008,Office Chair,Furniture,322.96,3,96.68,East,Massachusetts
+O-1145,2024-12-31,C-1012,Laptop Stand,Furniture,232.97,3,64.27,East,Massachusetts
+O-1146,2024-11-07,C-1007,USB Hub,Electronics,192.06,4,16.59,South,Georgia
+O-1147,2025-06-01,C-1087,Desk Lamp,Furniture,101.59,1,20.56,South,Georgia
+O-1148,2024-09-22,C-1087,Office Chair,Furniture,258.88,5,22.21,South,Georgia
+O-1149,2024-12-05,C-1032,Keyboard,Electronics,142.56,1,39.17,South,Florida
+O-1150,2024-11-10,C-1086,Webcam,Electronics,95.83,4,27.44,North,Minnesota
+O-1151,2024-10-21,C-1054,USB Hub,Electronics,239.28,3,23.88,South,Florida
+O-1152,2025-03-25,C-1013,Office Chair,Furniture,203.05,3,39.33,North,Illinois
+O-1153,2024-12-08,C-1084,"Monitor 24""",Electronics,151.75,5,40.41,East,New Jersey
+O-1154,2025-05-08,C-1095,Keyboard,Electronics,419.76,3,102.39,West,Nevada
+O-1155,2024-12-14,C-1045,Office Chair,Furniture,325.58,5,36.68,West,Nevada
+O-1156,2025-04-02,C-1012,Wireless Mouse,Electronics,168.29,4,9.82,North,Minnesota
+O-1157,2024-08-11,C-1016,Laptop Stand,Furniture,456.62,3,108.16,West,California
+O-1158,2025-04-10,C-1016,Webcam,Electronics,440.7,3,80.52,North,Illinois
+O-1159,2024-09-30,C-1032,Keyboard,Electronics,484.34,3,114.61,North,Illinois
+O-1160,2024-12-24,C-1059,Laptop Stand,Furniture,87.56,2,23.21,South,Georgia
+O-1161,2025-07-16,C-1046,Laptop Stand,Furniture,399.53,1,46.39,East,Massachusetts
+O-1162,2025-03-22,C-1047,USB Hub,Electronics,300.59,3,23.17,West,Washington
+O-1163,2024-12-11,C-1003,Printer,Electronics,444.43,5,58.67,West,Nevada
+O-1164,2025-02-09,C-1008,Keyboard,Electronics,456.51,3,96.92,East,New York
+O-1165,2024-12-12,C-1005,Wireless Mouse,Electronics,166.1,4,13.13,West,Nevada
+O-1166,2025-04-11,C-1017,"Monitor 24""",Electronics,237.75,5,36.8,West,Washington
+O-1167,2025-07-06,C-1083,Laptop Stand,Furniture,420.17,5,63.88,North,Illinois
+O-1168,2024-10-07,C-1088,Noise Cancelling Headphones,Electronics,124.29,4,35.75,North,Illinois
+O-1169,2025-02-03,C-1087,Noise Cancelling Headphones,Electronics,281.34,3,18.33,North,Illinois
+O-1170,2025-07-30,C-1015,Keyboard,Electronics,64.0,2,13.47,East,New York
+O-1171,2025-02-11,C-1100,Noise Cancelling Headphones,Electronics,136.91,2,33.78,West,California
+O-1172,2025-03-21,C-1097,Webcam,Electronics,119.44,2,30.25,West,Washington
+O-1173,2025-02-11,C-1099,Desk Lamp,Furniture,398.55,5,20.21,West,California
+O-1174,2024-11-02,C-1069,USB Hub,Electronics,403.29,1,86.81,East,New York
+O-1175,2025-05-20,C-1001,Noise Cancelling Headphones,Electronics,399.19,2,78.73,East,New York
+O-1176,2025-02-01,C-1033,Wireless Mouse,Electronics,80.84,4,14.67,East,Massachusetts
+O-1177,2025-03-15,C-1057,Noise Cancelling Headphones,Electronics,266.35,1,43.42,West,Nevada
+O-1178,2024-08-16,C-1005,Webcam,Electronics,164.78,1,10.74,South,Florida
+O-1179,2024-08-03,C-1054,Laptop Stand,Furniture,255.33,4,17.46,East,Massachusetts
+O-1180,2024-08-24,C-1077,Desk Lamp,Furniture,51.53,3,10.62,North,Michigan
+O-1181,2024-08-25,C-1076,Webcam,Electronics,161.55,5,32.53,East,New Jersey
+O-1182,2025-07-17,C-1014,Webcam,Electronics,366.0,2,57.65,West,Washington
+O-1183,2025-01-05,C-1043,Keyboard,Electronics,211.39,1,27.09,North,Minnesota
+O-1184,2025-07-13,C-1032,Noise Cancelling Headphones,Electronics,477.72,4,31.9,East,New York
+O-1185,2024-12-06,C-1055,Laptop Stand,Furniture,377.4,3,95.46,East,New Jersey
+O-1186,2024-08-04,C-1071,Webcam,Electronics,178.23,1,27.22,South,Georgia
+O-1187,2025-01-06,C-1006,USB Hub,Electronics,308.2,3,23.39,West,California
+O-1188,2025-01-23,C-1084,Keyboard,Electronics,127.64,1,17.55,North,Illinois
+O-1189,2025-01-23,C-1097,USB Hub,Electronics,295.57,4,77.23,East,New Jersey
+O-1190,2024-10-21,C-1084,USB Hub,Electronics,33.9,3,7.65,North,Michigan
+O-1191,2024-11-29,C-1044,Wireless Mouse,Electronics,107.07,2,20.51,South,Texas
+O-1192,2025-03-19,C-1018,Wireless Mouse,Electronics,64.04,5,6.65,South,Florida
+O-1193,2025-03-27,C-1043,Desk Lamp,Furniture,197.63,3,48.26,East,New York
+O-1194,2025-04-09,C-1019,Desk Lamp,Furniture,382.13,1,83.49,North,Michigan
+O-1195,2025-02-03,C-1084,"Monitor 24""",Electronics,253.12,4,38.87,West,Nevada
+O-1196,2024-08-28,C-1014,Noise Cancelling Headphones,Electronics,226.36,3,49.7,South,Georgia
+O-1197,2024-09-24,C-1085,USB Hub,Electronics,41.8,4,12.38,East,New York
+O-1198,2024-12-23,C-1026,USB Hub,Electronics,473.76,2,114.2,North,Michigan
+O-1199,2024-10-09,C-1015,Wireless Mouse,Electronics,258.74,4,24.3,South,Georgia
